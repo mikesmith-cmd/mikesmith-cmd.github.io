@@ -7,12 +7,12 @@ use-site-title: true
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-  <article class="post-preview">
+
     
 	  <h2 class="post-title">
       Welcome to the health and wellbeing site.</h2>
       <p>
-      This is where you will find useful information about health and wellbeing. Why not head to <a href="https://nbcf.org.au">NBCF AUS</a>?</p>
+      This is where you will find useful information about health and wellbeing. Why not head to <a class="text-blue" href="https://nbcf.org.au">NBCF AUS</a>?</p>
   
     <div class="post-entry-container">
       {% if post.image %}
@@ -27,7 +27,6 @@ use-site-title: true
 
    
 
-   </article>
   {% endfor %}
 </div>
 
