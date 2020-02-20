@@ -9,22 +9,17 @@ use-site-title: true
   {% for post in paginator.posts %}
   <article class="post-preview">
     
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-
-
+	  <h2 class="post-title">
+      Welcome to the health and wellbeing site.</h2>
+      <p>
+      This is where you will find useful information about health and wellbeing. Why not head to <a href="https://nbcf.org.au">NBCF AUS</a>?</p>
   
     <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
+       
           <img src="{{ post.image | relative_url }}">
-        </a>
+        
       </div>
       {% endif %}
      

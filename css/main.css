@@ -1,6 +1,9 @@
 
 /* --- General --- */
-
+body, html, *
+{
+  font-family: Inter, Open Sans, Sans-serif;
+}
 body {
   font-family: Inter, Open Sans, Lora, 'Times New Roman', serif;
   font-size: 18px;
