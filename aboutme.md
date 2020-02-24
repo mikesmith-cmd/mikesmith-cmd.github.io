@@ -12,8 +12,8 @@ Professionally, I got a chance to work in health sector. The experience working 
 Interests: Cricket, Basketball, Reading, and Playing with my lovely kids.
 Helpful Links: 
 <ul>
-<li>Cancer Australia - [https://nbcf.org.au](https://canceraustralia.gov.au/), a national government agency working to reduce the impact of cancer on all Australians. Provides information on the disease, research and clinical trials.</li>
-<li>National Breast Cancer Foundation - [https://nbcf.org.au/](https://nbcf.org.au/), a leading community-funded organisation in Australia raising money for research into the prevention and cure of breast cancer.</li>
-<li>The Our Community Group - [https://www.ourcommunity.com.au/](https://www.ourcommunity.com.au/), an organisation providing advice, connections, training and easy-to-use tech tools for people and organisations working to build stronger communities.</li>
-<li>Health Direct - [https://www.healthdirect.gov.au/](https://www.healthdirect.gov.au/), free Australian health advice you can count on.</li>
+<li>Cancer Australia - <a href="https://nbcf.org.au">https://canceraustralia.gov.au/</a>, a national government agency working to reduce the impact of cancer on all Australians. Provides information on the disease, research and clinical trials.</li>
+<li>National Breast Cancer Foundation - <A href="https://nbcf.org.au/">https://nbcf.org.au/</a>, a leading community-funded organisation in Australia raising money for research into the prevention and cure of breast cancer.</li>
+<li>The Our Community Group - <a href="https://www.ourcommunity.com.au/">https://www.ourcommunity.com.au/</a>, an organisation providing advice, connections, training and easy-to-use tech tools for people and organisations working to build stronger communities.</li>
+<li>Health Direct - <a href="https://www.healthdirect.gov.au/">https://www.healthdirect.gov.au/</a>, free Australian health advice you can count on.</li>
 </ul>
