@@ -5,7 +5,8 @@ body, html, *
 }
 body {
   font-family: Inter, Open Sans, Lora, 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 14px;
+  line-height: 1.5;;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
